@@ -1,6 +1,6 @@
 google my name is nabil by direct printout
 <?php
-
+echo "test";
 
 phpinfo();
 
