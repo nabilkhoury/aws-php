@@ -12,4 +12,5 @@ echo $_SERVER['SERVER_NAME'];
 
 echo "my name is nabil from echo code";
 echo "test git";
+echo "test git";
 ?>
